@@ -1,8 +1,7 @@
-
 # Curso de Python para a Indústria 4.0
 
 Este repositório contém uma série de notebooks desenvolvidos para ensinar Python com foco em aplicações na Indústria 4.0.
-O curso aborda desde conceitos básicos da linguagem até integrações com protocolos industriais, proporcionando uma base sólida para profissionais e estudantes interessados em automação e análise de dados industriais.
+O curso foi inteiramente desenvolvido por mim e aborda desde conceitos básicos da linguagem até integrações com protocolos industriais, proporcionando uma base sólida para profissionais e estudantes interessados em automação e análise de dados industriais.
 
 ## 📚 Índice
 
